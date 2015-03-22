@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.0.2" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="38.7310880" minlon="-82.9945230" maxlat="38.7336450" maxlon="-82.9904780"/>
+ <node id="199973320" lat="38.7341050" lon="-82.9915320" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="2566819" timestamp="2009-09-22T09:58:49Z"/>
+ <node id="199945983" lat="38.7320730" lon="-82.9890840" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="2566819" timestamp="2009-09-22T09:50:28Z"/>
+ <node id="199923366" lat="38.7320580" lon="-82.9896380" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="2566819" timestamp="2009-09-22T09:44:26Z"/>
+ <node id="199935888" lat="38.7334930" lon="-82.9901330" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3322001" timestamp="2009-12-08T06:20:43Z"/>
+ <node id="199945992" lat="38.7321690" lon="-82.9930430" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T04:47:14Z"/>
+ <node id="200000981" lat="38.7339410" lon="-82.9925750" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T05:02:33Z"/>
+ <node id="199898738" lat="38.7330920" lon="-82.9945790" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T04:35:01Z"/>
+ <node id="199834172" lat="38.7329520" lon="-82.9895970" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="2566819" timestamp="2009-09-22T09:18:09Z"/>
+ <node id="199945976" lat="38.7320920" lon="-82.9885420" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T04:47:14Z"/>
+ <node id="199925824" lat="38.7343010" lon="-82.9915260" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T04:41:51Z"/>
+ <node id="199945985" lat="38.7320820" lon="-82.9903280" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3322001" timestamp="2009-12-08T06:21:40Z"/>
+ <node id="199923339" lat="38.7334800" lon="-82.9894820" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T04:41:19Z"/>
+ <node id="199945994" lat="38.7322020" lon="-82.9944040" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="2566819" timestamp="2009-09-22T09:50:28Z"/>
+ <node id="199945987" lat="38.7321180" lon="-82.9916190" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="2566819" timestamp="2009-09-22T09:50:28Z"/>
+ <node id="199925819" lat="38.7342400" lon="-82.9925650" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T04:41:51Z"/>
+ <node id="200000980" lat="38.7335970" lon="-82.9925970" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T05:02:33Z"/>
+ <node id="199945996" lat="38.7321950" lon="-82.9946080" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T04:47:14Z"/>
+ <node id="199945981" lat="38.7320900" lon="-82.9888680" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T04:47:14Z"/>
+ <node id="199945974" lat="38.7321310" lon="-82.9879240" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="2566819" timestamp="2009-09-22T09:50:28Z"/>
+ <node id="199973316" lat="38.7335380" lon="-82.9915580" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T04:55:12Z"/>
+ <node id="199945990" lat="38.7321520" lon="-82.9926560" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T04:47:14Z"/>
+ <node id="200000979" lat="38.7326000" lon="-82.9926440" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="2566819" timestamp="2009-09-22T10:08:14Z"/>
+ <node id="199945873" lat="38.7320800" lon="-82.9879130" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T04:47:13Z"/>
+ <node id="199945978" lat="38.7320940" lon="-82.9886500" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="2566819" timestamp="2009-09-22T09:50:28Z"/>
+ <node id="200025720" lat="38.7334620" lon="-82.9899150" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T05:10:04Z"/>
+ <node id="199973318" lat="38.7338250" lon="-82.9915480" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3165813" timestamp="2009-11-20T04:55:12Z"/>
+ <node id="200025718" lat="38.7335000" lon="-82.9900190" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="2566819" timestamp="2009-09-22T10:18:31Z"/>
+ <node id="199898736" lat="38.7330080" lon="-82.9915830" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="3322001" timestamp="2009-12-08T06:17:57Z"/>
+ <node id="199898737" lat="38.7330390" lon="-82.9926220" user="woodpeck_fixbot" uid="147510" visible="true" version="2" changeset="2566819" timestamp="2009-09-22T09:38:12Z"/>
+ <way id="19259604" user="DaveHansenTiger" uid="7168" visible="true" version="1" changeset="496127" timestamp="2008-01-01T00:44:48Z">
+  <nd ref="199945990"/>
+  <nd ref="200000979"/>
+  <nd ref="199898737"/>
+  <nd ref="200000980"/>
+  <nd ref="200000981"/>
+  <nd ref="199925819"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Bond St"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Scioto, OH"/>
+  <tag k="tiger:name_base" v="Bond"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="55113791:55113763"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-ef769506-e51f-4a67-b320-8b7fa8102a60"/>
+  <tag k="tiger:zip_left" v="45662"/>
+  <tag k="tiger:zip_right" v="45662"/>
+ </way>
+ <way id="19258140" user="DaveHansenTiger" uid="7168" visible="true" version="1" changeset="496127" timestamp="2007-12-31T23:53:29Z">
+  <nd ref="199945987"/>
+  <nd ref="199898736"/>
+  <nd ref="199973316"/>
+  <nd ref="199973318"/>
+  <nd ref="199973320"/>
+  <nd ref="199925824"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Sinton St"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Scioto, OH"/>
+  <tag k="tiger:name_base" v="Sinton"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="55113745"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-ef769506-e51f-4a67-b320-8b7fa8102a60"/>
+  <tag k="tiger:zip_left" v="45662"/>
+ </way>
+ <way id="19256555" user="NE2" uid="207745" visible="true" version="2" changeset="3866043" timestamp="2010-02-13T18:12:01Z">
+  <nd ref="199945873"/>
+  <nd ref="199945974"/>
+  <nd ref="199945976"/>
+  <nd ref="199945978"/>
+  <nd ref="199945981"/>
+  <nd ref="199945983"/>
+  <nd ref="199923366"/>
+  <nd ref="199945985"/>
+  <nd ref="199945987"/>
+  <nd ref="199945990"/>
+  <nd ref="199945992"/>
+  <nd ref="199945994"/>
+  <nd ref="199945996"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="3rd St"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Scioto, OH"/>
+  <tag k="tiger:name_base" v="3rd"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="55107327"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-ef769506-e51f-4a67-b320-8b7fa8102a60"/>
+ </way>
+ <way id="19254112" user="DaveHansenTiger" uid="7168" visible="true" version="1" changeset="491444" timestamp="2007-12-31T23:00:07Z">
+  <nd ref="199834172"/>
+  <nd ref="199898736"/>
+  <nd ref="199898737"/>
+  <nd ref="199898738"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="4th St"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Scioto, OH"/>
+  <tag k="tiger:name_base" v="4th"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="55113762:55113765:55113766"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-ef769506-e51f-4a67-b320-8b7fa8102a60"/>
+  <tag k="tiger:zip_left" v="45662"/>
+  <tag k="tiger:zip_right" v="45662"/>
+ </way>
+ <way id="19260854" user="DaveHansenTiger" uid="7168" visible="true" version="1" changeset="496282" timestamp="2008-01-01T01:02:52Z">
+  <nd ref="199973316"/>
+  <nd ref="199935888"/>
+  <nd ref="200025718"/>
+  <nd ref="200025720"/>
+  <nd ref="199923339"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Green St"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Scioto, OH"/>
+  <tag k="tiger:name_base" v="Green"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070829"/>
+  <tag k="tiger:tlid" v="55119244"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-ef769506-e51f-4a67-b320-8b7fa8102a60"/>
+ </way>
+</osm>
